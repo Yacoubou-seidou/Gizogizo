@@ -1,0 +1,12 @@
+.arriere {
+  background-color: #4a148c;
+  height: 60vh;
+}
+.flexer {
+  display: flex;
+  justify-content: space-between;
+}
+.arriere2 {
+  background-color: #4a148c;
+  height: 40vh;
+}
